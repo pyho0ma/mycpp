@@ -7,4 +7,5 @@ int main()
     cout<<"Enter the number 2: ";
     int a,b,c;
     c=a+b;
+    cout<<"Don't you dare to change?";
 }
