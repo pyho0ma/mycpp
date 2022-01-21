@@ -11,4 +11,5 @@ int main()
     b=c+a;
     d=b+c;
     c=a+b;
+    cout<<"Don't you dare to change code?";
 }
